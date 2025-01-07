@@ -25,3 +25,8 @@ Injections de commandes
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
 wordlists à recuperer, ou tools
 
+# CSRF
+
+pas de token -> gratuit
+changement de methode pour bypass de token
+à completer : possibilités sur token
